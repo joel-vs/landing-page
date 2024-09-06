@@ -1,4 +1,4 @@
-# landing-page
+# Landing page
 
 The images used in this project are not my original creations, and I do not claim ownership of any of them. All visual content used here belongs to their respective creators and copyright holders.
 Therefore I am providing the sources from which I obtained the images.
@@ -14,3 +14,5 @@ Photo of Jim Halpert: https://gothamsn.com/was-jim-halpert-actually-kind-of-a-je
 Photo of Dwight Schrute: https://theoffice.fandom.com/wiki/Dwight_Schrute
 
 Photo of Pam Beesly: https://en.wikipedia.org/wiki/Pam_Beesly#/media/File:Pam_Beesley.jpg
+
+[Live demo](https://joel-vs.github.io/landing-page/) 👈 
